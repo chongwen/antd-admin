@@ -146,6 +146,19 @@ const database = [
     icon: 'area-chart',
     route: '/chart/Recharts',
   },
+  {
+    id: '8',
+    breadcrumbParentId: '1',
+    name: 'Zcw',
+    zh: {
+      name: '崇文'
+    },
+    'pt-br': {
+      name: 'Zcw'
+    },
+    icon: 'shopping-cart',
+    route: '/zcw',
+  },
 ]
 
 module.exports = {
